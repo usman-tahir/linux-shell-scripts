@@ -17,3 +17,12 @@ sudo apt install git
 # install the latest based on the latest known versions
 rvm list known
 rvm install ruby 2.4.0 # as of this script
+
+# php7.0
+sudo apt-get install php7.0
+sudo apt-get install php7.0cli
+
+# npm and nodejs
+sudo apt-get install nodejs
+sudo apt-get install npm
+sudo apt-get install build-essential
